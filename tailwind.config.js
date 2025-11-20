@@ -6,6 +6,12 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        'brand-beige': '#F5E9D3',
+        'brand-dark': '#3A3A3A',
+        'brand-accent': '#C6A98F',
+        'brand-soft': '#EFE4D6',
+      },
       fontFamily: {
         sans: ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
         geist: ['Geist', 'system-ui', 'sans-serif'],
